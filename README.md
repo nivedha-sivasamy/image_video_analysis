@@ -6,16 +6,16 @@ Welcome to the "Image and Video Analysis" repository! This repository contains P
 
 1. [Introduction](#introduction)
 2. [Image Analysis](#image-analysis)
-    - [Resize and Rotate](#resize-and-rotate)
-    - [Contrast Stretching](#contrast-stretching)
-    - [Image Enhancement](#image-enhancement)
-    - [Non-Linear Spatial Filter](#non-linear-spatial-filter)
-    - [Homomorphic Filter](#homomorphic-filter)
-    - [Wavelet Compression](#wavelet-compression)
-    - [Wavelet Decomposition and Reconstruction](#wavelet-decomposition-and-reconstruction)
-    - [Feature Descriptors](#feature-descriptors)
-3. [Video Analysis](#video-analysis)
-4. [Advanced Image Classification](#advanced-image-classification)
+    - [Resize and Rotate](1_Resize&Rotate.ipynb)
+    - [Contrast Stretching](2_Contrast_Stretching.ipynb)
+    - [Image Enhancement](3_Image_Enhancement.ipynb)
+    - [Non-Linear Spatial Filter](4_Non_Linear_Spatial_Filter.ipynb)
+    - [Homomorphic Filter](5_Homomorphic_Filter.ipynb)
+    - [Wavelet Compression](8_wavelet_compression.ipynb)
+    - [Wavelet Decomposition and Reconstruction](7_wavelet_decomposition&reconstruction.ipynb)
+    - [Feature Descriptors](9_feature_description.ipynb)
+3. [Video Analysis](6_Video_Analysis.ipynb)
+4. [Advanced Image Classification](10_Image_classfication.ipynb)
 
 ## Introduction
 
