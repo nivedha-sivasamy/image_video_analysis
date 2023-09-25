@@ -1,6 +1,6 @@
 # Image and Video Analysis Repository
 
-Welcome to the "Image and Video Analysis" repository! This repository contains Python programs for various image and video processing techniques, from basic operations like resizing and enhancing images to advanced image classification using OpenCV's DNN module. Whether you're interested in image manipulation, feature extraction, or video analysis, this repository aims to provide clear and well-documented code.
+Welcome to the "Image and Video Analysis" repository! This repository contains Python programs for various image and video processing techniques, from basic operations like resizing and enhancing images to advanced image classification using OpenCV's DNN module.
 
 ## Table of Contents
 
